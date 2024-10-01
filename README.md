@@ -1,3 +1,3 @@
 
 # nazliAutomation
-Bu dosyada değişiklikler ypaıldı!!
+Bu dosyada değişiklikler yapıldı!!
