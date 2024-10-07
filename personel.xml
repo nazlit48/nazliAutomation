@@ -1,0 +1,32 @@
+<personel>
+    <id>12345</id>
+    <ad>Nazlı</ad>
+    <soyad>Sandıkcıoğlu</soyad>
+    <pozisyon>Senior Software Test Engineer</pozisyon>
+    <departman>IT</departman>
+    <email>nazli4887@gmail.com</email>
+    <telefon>+90 553 306 59 41</telefon>
+    <lokasyon>İzmir</lokasyon>
+    <iseAlimTarihi>2022-08-15</iseAlimTarihi>
+    <dogumTarihi>1987-08-04</dogumTarihi>
+    <adres>
+        <mahalle>Fahrettin Altay mah.</mahalle>
+        <sokak>2/11 sk.</sokak>
+        <sehir>İzmir</sehir>
+        <ilce>Karabağlar</ilce>
+        <postaKodu>35000</postaKodu>
+    </adres>
+    <egitim>
+        <universite>Süleyman Demirel Universitesi</universite>
+        <bolum>Bilgisayar Muhendisliği</bolum>
+        <mezuniyetDerecesi>Lisans</mezuniyetDerecesi>
+        <baslangicTarihi>2006-09-09</baslangicTarihi>
+        <bitisTarihi>2011-02-11</bitisTarihi>
+    </egitim>
+    <acilDurumdaUlasilacakKisi>
+        <ad>Ersin Nuri</ad>
+        <soyad>Sandıkcıoğlu</soyad>
+        <yakinligi>eş</yakinligi>
+        <telefon>+90 555 433 45 65</telefon>
+    </acilDurumdaUlasilacakKisi>
+</personel>
