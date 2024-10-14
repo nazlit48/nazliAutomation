@@ -1,5 +1,4 @@
-<personel>
-    <id>12345</id>
+<personel id="12345">
     <ad>Nazlı</ad>
     <soyad>Sandıkcıoğlu</soyad>
     <pozisyon>Senior Software Test Engineer</pozisyon>
